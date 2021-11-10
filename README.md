@@ -2,18 +2,19 @@
 Repository detailing my portfolio of Data Science Projects
 
 <details>
-<summary>Data Import - API | JSON</summary>
+<summary>1. Data Import - API | JSON</summary>
 
 </details>
 
 <details>
-<summary>Exploratory Data Analysis</summary>
+<summary>2. Exploratory Data Analysis</summary>
 
 <blockquote>
 <details>
 	<summary>Exploratory Data Analysis - Supermarket Dataset</summary>
 <blockquote>
-### [1. EDA on Supermarket Dataset](https://github.com/ankurdhamija83/Data-Science-Projects/tree/main/EDA/Supermarket)
+
+### [2.1 EDA on Supermarket Dataset](https://github.com/ankurdhamija83/Data-Science-Projects/tree/main/EDA/Supermarket)
 The goal of this project is to do `Exploratory Data Analysis` on a Supermarket Dataset. The notebook contains following sections.
 
 **a. Initial Data Exploration**
@@ -95,9 +96,10 @@ np.round()
 
 <details>
 	<summary>Exploratory Data Analysis on Movies Dataset</summary>
+<blockquote>
 
 
-### [2. EDA on Movies Dataset](https://github.com/ankurdhamija83/Data-Science-Portfolio/tree/main/EDA/Movies)
+### [2.2 EDA on Movies Dataset](https://github.com/ankurdhamija83/Data-Science-Portfolio/tree/main/EDA/Movies)
 
 The goal of this project is to do `Exploratory Data Analysis` on a Movies Dataset. The dataset contains a list of `44,691` movies and a total of `22` columns.
 
