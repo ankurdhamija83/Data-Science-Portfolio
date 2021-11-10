@@ -9,10 +9,10 @@ Repository detailing my portfolio of Data Science Projects
 <details>
 <summary>Exploratory Data Analysis</summary>
 
-
+<blockquote>
 <details>
 	<summary>Exploratory Data Analysis - Supermarket Dataset</summary>
-
+<blockquote>
 ### [1. EDA on Supermarket Dataset](https://github.com/ankurdhamija83/Data-Science-Projects/tree/main/EDA/Supermarket)
 The goal of this project is to do `Exploratory Data Analysis` on a Supermarket Dataset. The notebook contains following sections.
 
