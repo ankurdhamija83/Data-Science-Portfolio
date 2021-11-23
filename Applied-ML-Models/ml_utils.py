@@ -235,7 +235,7 @@ Visualize scatter plot
     :col_list: list - list of columns to be visualized
     :figsize: tutple
 '''
-def scatter_plot(df, col_list, figsize = (6,6)):
+def scatter_plot(col_0, col_1, figsize = (6,6)):
     plt.figure(figsize = figsize)
-    plt.scatter(df[col_list[0]], df[col_list[1]])
+    plt.scatter(col_0, col_1)
     plt.show()
