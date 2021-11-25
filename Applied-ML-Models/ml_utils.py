@@ -137,12 +137,12 @@ def df_overview(df, max_cat=20, figsize=(10,5)):
 '''
 Split the dataframe into train / test
 '''
-def df_partitioning(df, y, test_size=0.3, shuffle=False):
-    df_train, df_test = model_selection.train_test_split(df, test_size=test_size, shuffle=shuffle) 
-    print("X_train shape:", df_train.drop(y, axis=1).shape, "| X_test shape:", df_test.drop(y, axis=1).shape)
-    print("y_train mean:", round(np.mean(df_train[y]),2), "| y_test mean:", round(np.mean(df_test[y]),2))
-    print(df_train.shape[1], "features:", df_train.drop(y, axis=1).columns.to_list())
-    return df_train, df_test
+def df_partitioning(df, test_size=0.3, random_state=42, shuffle=False):
+    x_train, x_test = model_selection.train_test_split(df, test_size=test_size, shuffle=shuffle, random_state=random_state) 
+    # print("X_train shape:", df_train.drop(y, axis=1).shape, "| X_test shape:", df_test.drop(y, axis=1).shape)
+    # print("y_train mean:", round(np.mean(df_train[y]),2), "| y_test mean:", round(np.mean(df_test[y]),2))
+    # print(df_train.shape[1], "features:", df_train.drop(y, axis=1).columns.to_list())
+    return x_train, x_test
 
 
 '''
@@ -206,9 +206,23 @@ Scales features
     :param df: dataframe - feature matrix df
     :col_list: list - list of columns to be scaled
 '''
-def scaling(df, col_list):
+def scaling(df_train, df_test, col_list):
+    
     scaler = preprocessing.MinMaxScaler()
-    df[col_list] = scaler.fit_transform(df[col_list])
+    df_train[col_list] = scaler.fit_transform(df_train[col_list])
+    df_test[col_list] = scaler.transform(df_test[col_list])
+
+    return df_train, df_test
+    
+
+'''
+Delete a list of columns
+:parameter
+    :param df: dataframe - feature matrix df
+    :col_list: list - list of columns to be scaled
+'''
+def drop_col(df, col_list):
+    df.drop(col_list, axis=1, inplace=True)
     return df
 
 
