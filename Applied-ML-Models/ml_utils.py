@@ -169,12 +169,13 @@ Transforms a categorical column into dummy columns
 :return
     df with dummy columns added
 '''
-def add_dummies(df, x, dropx=False):
-    df_dummy = pd.get_dummies(df[x], prefix=x, drop_first=True, dummy_na=False)
-    df = pd.concat([df, df_dummy], axis=1)
-    print( df.filter(like=x, axis=1).head() )
-    if dropx == True:
-        df = df.drop(x, axis=1)
+def add_dummies(df, col_list, dropx=False):
+    for x in col_list:
+        df_dummy = pd.get_dummies(df[x], prefix=x, drop_first=True, dummy_na=False)
+        df = pd.concat([df, df_dummy], axis=1)
+        print( df.filter(like=x, axis=1).head() )
+        if dropx == True:
+            df = df.drop(x, axis=1)
     return df
 
 
