@@ -227,6 +227,20 @@ def drop_col(df, col_list):
     return df
 
 
+'''
+Find and display the duplicate rows
+: parameter
+    :param df: dataframe - feature matrix df
+'''
+def checkDuplicates(df):
+    duplicate = df[df.duplicated()]
+  
+    print("Number of duplicate rows in the dataframe: ", df.duplicated().sum())
+  
+    # Print the resultant Dataframe
+    return duplicate
+
+
 ###############################################################################
 #                       DATA-VISUALIZATION                                    #
 ###############################################################################
