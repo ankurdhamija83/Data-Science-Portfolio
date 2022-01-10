@@ -44,4 +44,53 @@ Algorithms used: Logistic Regression | Random Forest Classifier | Decision Tree 
 
 </blockquote>
 
+<hr>
+
+### 2. ML Models Mathematics from scratch in Python
+Implementation of the Mathematical Logic behind various Machine Learning models from scratch in Python
+
+<blockqoute>
+
+#### 2.1 [Linear Regression](https://github.com/ankurdhamija83/Data-Science-Portfolio/blob/master/ML-Models-Mathematics-Python-Implementation/Linear-Regression/Simple_Linear_Regression.ipynb)
+Algorithm Type: Regression <br>
+Derivation of the cost function | Gradient Descent | Normal Equation | Newton's Method
+
+***
+
+### 2.2 [Polynomial Regression](https://github.com/ankurdhamija83/Data-Science-Portfolio/blob/master/ML-Models-Mathematics-Python-Implementation/Polynomial-Regression/Polynomial-Regression-without-sklearn.ipynb)
+Algorithm Type: Regression<br>
+Polynomial Regression | Gradient Descent | Newton's Method
+
+***
+
+#### 2.3 [Logistic Regression](https://github.com/ankurdhamija83/Data-Science-Portfolio/blob/master/ML-Models-Mathematics-Python-Implementation/Logistic-Regression/Logistic-Regression-Model-from-scratch/Logistic-Regression-using-Gradient-Descent-Newton-Method.ipynb)
+Algorithm Type: Regression<br>
+Logistic Regression Algorithm using Gradient Descent and Newton's Method
+
+***
+
+#### 2.4 [Mathematical Derivation of the Hessian of Logistic Regression](https://github.com/ankurdhamija83/Data-Science-Portfolio/blob/master/ML-Models-Mathematics-Python-Implementation/Logistic-Regression/Hessian-Logistic-Regression-Loss-Function.ipynb)
+Calculus | Hessian | Loss Function Derivation
+
+***
+
+#### 2.5 [Gaussian Discriminant Analysis](https://github.com/ankurdhamija83/Data-Science-Portfolio/blob/master/ML-Models-Mathematics-Python-Implementation/Logistic-Regression/Logistic-Regression-Model-from-scratch/Gaussian_Discriminant_Analysis.ipynb)
+Algorithm Type: Classification<br>
+Gaussian Discriminant Analysis
+
+***
+
+### 2.6 [Naive Bayes](https://github.com/ankurdhamija83/Data-Science-Portfolio/blob/master/ML-Models-Mathematics-Python-Implementation/Naive_Bayes_and_SVM/Naive_Bayes.ipynb)
+Algorithm Type: Classification<br>
+Bayesian Machine Learning
+
+***
+
+#### 2.7 [K-Means Clustering](https://github.com/ankurdhamija83/Data-Science-Portfolio/blob/master/ML-Models-Mathematics-Python-Implementation/K-Means-Clustering/K-Means-Clustering.ipynb)
+Algorithm Type: Clustering<br>
+Linear Algebra | Clustering
+
+***
+
+
 
