@@ -55,6 +55,7 @@ Algorithms used: Logistic Regression | Random Forest Classifier | Decision Tree 
 </blockquote>
 <br>
 <hr>
+<br><br>
 
 ## 2. ML Models Mathematics from scratch in Python
 Implementation of the Mathematical Logic behind various Machine Learning models from scratch in Python
