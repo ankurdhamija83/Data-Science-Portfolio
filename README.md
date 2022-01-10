@@ -44,7 +44,7 @@ Implementation of the Mathematical Logic behind various Machine Learning models 
 
 #### 2.1 [Linear Regression](https://github.com/ankurdhamija83/Data-Science-Portfolio/blob/master/ML-Models-Mathematics-Python-Implementation/Linear-Regression/Simple_Linear_Regression.ipynb)
 Algorithm Type: Regression <br>
-Derivation of the cost function | Gradient Descent | Normal Equation | Newton's Method
+Derivation of the cost function - Gradient Descent - Normal Equation - Newton's Method
 </blockquote>
 <br><br>
 
@@ -53,7 +53,7 @@ Derivation of the cost function | Gradient Descent | Normal Equation | Newton's 
 
 #### 2.2 [Polynomial Regression](https://github.com/ankurdhamija83/Data-Science-Portfolio/blob/master/ML-Models-Mathematics-Python-Implementation/Polynomial-Regression/Polynomial-Regression-without-sklearn.ipynb)
 Algorithm Type: Regression<br>
-Polynomial Regression | Gradient Descent | Newton's Method
+Polynomial Regression - Gradient Descent - Newton's Method
 </blockquote>
 <br><br>
 
@@ -70,7 +70,7 @@ Logistic Regression Algorithm using Gradient Descent and Newton's Method
 <blockquote>
  
 #### 2.4 [Mathematical Derivation of the Hessian of Logistic Regression](https://github.com/ankurdhamija83/Data-Science-Portfolio/blob/master/ML-Models-Mathematics-Python-Implementation/Logistic-Regression/Hessian-Logistic-Regression-Loss-Function.ipynb)
-Calculus | Hessian | Loss Function Derivation
+Calculus - Hessian - Loss Function Derivation
 </blockquote>
 <br><br>
 
