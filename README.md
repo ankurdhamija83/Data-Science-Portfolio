@@ -1,7 +1,7 @@
 # Data Science Portfolio
 ***Summary*** : The Repository contains various Applied ML Models (HR Analytics | Banking Analytics | Healthcare Analytics and others) and implementation of the mathematics of various ML Algorithms from scratch in Python.
-<br>
-Connect with me on Linkedin: https://www.linkedin.com/in/ankurdhamija/
+<br><br>
+***Connect with me on Linkedin***: https://www.linkedin.com/in/ankurdhamija/
 <br>
 
 ## 1. Applied ML Models
