@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 
-### 1. Applied ML Models
+## 1. Applied ML Models
 Business Applications and case studies of Machine Learning Models
 
 <blockquote>
@@ -46,7 +46,7 @@ Algorithms used: Logistic Regression | Random Forest Classifier | Decision Tree 
 
 <hr>
 
-### 2. ML Models Mathematics from scratch in Python
+## 2. ML Models Mathematics from scratch in Python
 Implementation of the Mathematical Logic behind various Machine Learning models from scratch in Python
 
 <blockqoute>
@@ -92,5 +92,6 @@ Linear Algebra | Clustering
 
 ***
 
+</blockquote>
 
 
