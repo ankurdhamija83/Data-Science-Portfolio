@@ -88,7 +88,7 @@ Gaussian Discriminant Analysis
 Algorithm Type: Classification<br>
 Bayesian Machine Learning
 </blockquote>
-<br><br>
+<br>
 
 <blockquote>
  
