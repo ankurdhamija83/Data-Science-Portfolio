@@ -50,9 +50,10 @@ Algorithms used: Logistic Regression | Random Forest Classifier | Decision Tree 
 Implementation of the Mathematical Logic behind various Machine Learning models from scratch in Python
 
 <blockqoute>
-#### 2.1 [Linear Regression](https://github.com/ankurdhamija83/Data-Science-Portfolio/blob/master/ML-Models-Mathematics-Python-Implementation/Linear-Regression/Simple_Linear_Regression.ipynb)
-Algorithm Type: Regression <br>
-Derivation of the cost function | Gradient Descent | Normal Equation | Newton's Method
+
+> #### 2.1 [Linear Regression](https://github.com/ankurdhamija83/Data-Science-Portfolio/blob/master/ML-Models-Mathematics-Python-Implementation/Linear-Regression/Simple_Linear_Regression.ipynb)
+> Algorithm Type: Regression <br>
+> Derivation of the cost function | Gradient Descent | Normal Equation | Newton's Method
 
 ***
 
