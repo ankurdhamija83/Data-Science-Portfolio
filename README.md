@@ -55,13 +55,12 @@ Implementation of the Mathematical Logic behind various Machine Learning models 
 > Algorithm Type: Regression <br>
 > Derivation of the cost function | Gradient Descent | Normal Equation | Newton's Method
 
-***
 
-### 2.2 [Polynomial Regression](https://github.com/ankurdhamija83/Data-Science-Portfolio/blob/master/ML-Models-Mathematics-Python-Implementation/Polynomial-Regression/Polynomial-Regression-without-sklearn.ipynb)
-Algorithm Type: Regression<br>
-Polynomial Regression | Gradient Descent | Newton's Method
 
-***
+> ### 2.2 [Polynomial Regression](https://github.com/ankurdhamija83/Data-Science-Portfolio/blob/master/ML-Models-Mathematics-Python-Implementation/Polynomial-Regression/Polynomial-Regression-without-sklearn.ipynb)
+> Algorithm Type: Regression<br>
+> Polynomial Regression | Gradient Descent | Newton's Method
+
 
 #### 2.3 [Logistic Regression](https://github.com/ankurdhamija83/Data-Science-Portfolio/blob/master/ML-Models-Mathematics-Python-Implementation/Logistic-Regression/Logistic-Regression-Model-from-scratch/Logistic-Regression-using-Gradient-Descent-Newton-Method.ipynb)
 Algorithm Type: Regression<br>
