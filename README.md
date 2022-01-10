@@ -4,7 +4,6 @@
 > ### 1. Applied ML Models
 > Business Applications and case studies of Machine Learning Models
 
-***
 
 #### 1.1 [HR Analytics - Predicting Employee Turnover](https://github.com/ankurdhamija83/Data-Science-Portfolio/blob/master/Applied-ML-Models/HR-Analytics/HR-Analytics-Predicting%20Employee%20Turnover.ipynb)
 Problem Type: Classification<br> 
