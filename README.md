@@ -71,6 +71,7 @@ Implementation of the Mathematical Logic behind various Machine Learning models 
 Algorithm Type: Classification<br>
 Bayesian Machine Learning
 </blockquote>
+<br><br>
 
 > #### 2.7 [K-Means Clustering](https://github.com/ankurdhamija83/Data-Science-Portfolio/blob/master/ML-Models-Mathematics-Python-Implementation/K-Means-Clustering/K-Means-Clustering.ipynb)
 > Algorithm Type: Clustering<br>
