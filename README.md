@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 
-> ## 1. Applied ML Models
+> ### 1. Applied ML Models
 > Business Applications and case studies of Machine Learning Models
 
 ***
