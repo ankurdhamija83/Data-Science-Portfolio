@@ -1,33 +1,39 @@
 # Data Science Portfolio
 
 
-### Applied ML Models
+## Applied ML Models
 Business Applications and case studies of Machine Learning Models
+<hr>
 
-#### HR Analytics - Predicting Employee Turnover
+#### 1. HR Analytics - Predicting Employee Turnover
 Problem Type: Classification 
 Algorithms used: Logistic Regression | Random Forest Classifier | Decision Tree Classifier
+<hr>
 
-#### Banking Analytics - Bank Fixed Deposit Subscriber Prediction
+#### 2. Banking Analytics - Bank Fixed Deposit Subscriber Prediction
 Problem Type: Classification 
 Algorithms used: Logistic Regression | Random Forest Classifier | Decision Tree Classifier
+<hr>
 
-#### Real Estate Analytics - Housing Price Prediction
+#### 3. Real Estate Analytics - Housing Price Prediction
 Problem Type: Regression
 Algorithms used: Linear Regression
+<hr>
 
-#### Parking Lot Occupancy Prediction
+#### 4. Parking Lot Occupancy Prediction
 Problem Type: Classification
 Algorithms used: Logistic Regression | Random Forest Classifier | Decision Tree Classifier
+<hr>
 
-#### Healthcare Analytics - Predicting Diabetes Rehospitalization
+#### 5. Healthcare Analytics - Predicting Diabetes Rehospitalization
 Problem Type: Classification
 Algorithms used: Logistic Regression | Random Forest Classifier | Decision Tree Classifier
+<hr>
 
-#### Customer Analytics - Predicting Telecom Customer Churn
+#### 6. Customer Analytics - Predicting Telecom Customer Churn
 Problem Type: Classification
 Algorithms used: Logistic Regression | Random Forest Classifier | Decision Tree Classifier
-
+<hr>
 
 
 
