@@ -80,7 +80,7 @@ Gaussian Discriminant Analysis
 
 ***
 
-### 2.6 [Naive Bayes](https://github.com/ankurdhamija83/Data-Science-Portfolio/blob/master/ML-Models-Mathematics-Python-Implementation/Naive_Bayes_and_SVM/Naive_Bayes.ipynb)
+#### 2.6 [Naive Bayes](https://github.com/ankurdhamija83/Data-Science-Portfolio/blob/master/ML-Models-Mathematics-Python-Implementation/Naive_Bayes_and_SVM/Naive_Bayes.ipynb)
 Algorithm Type: Classification<br>
 Bayesian Machine Learning
 
